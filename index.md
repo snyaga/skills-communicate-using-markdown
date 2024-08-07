@@ -5,6 +5,10 @@
 ##### Header 5
 ###### Header 6
 
+``` Python
+print 'hello,world'
+```
+
 ![Image of yogitocat](https://octodex.github.com/images/yogitocat.png)
 
 <!--
