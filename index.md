@@ -5,7 +5,7 @@
 ##### Header 5
 ###### Header 6
 
-![Image of NUXtocat](https://octodex.github.com/images/yogitocat.png)
+![Image of yogitocat](https://octodex.github.com/images/yogitocat.png)
 
 <!--
 Added 6 header sizes
