@@ -9,6 +9,10 @@
 print 'hello,world'
 ```
 
+- [X] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 ![Image of yogitocat](https://octodex.github.com/images/yogitocat.png)
 
 <!--
